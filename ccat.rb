@@ -1,6 +1,6 @@
 VERSION="0.9.4"
 
-class ccat < Formula
+class Ccat < Formula
   desc "Extension of cat command"
   homepage "https://github.com/tknb-023/ccat"
   url "https://github.com/tknb-023/ccat/releases/download/v#{VERSION}/ccat-#{VERSION}_darwin_amd64.tar.gz"
