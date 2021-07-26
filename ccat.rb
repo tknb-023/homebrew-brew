@@ -1,11 +1,11 @@
-VERSION="0.9.4"
+VERSION="1.0.1"
 
 class Ccat < Formula
   desc "Extension of cat command"
   homepage "https://github.com/tknb-023/ccat"
   url "https://github.com/tknb-023/ccat/releases/download/v#{VERSION}/ccat-#{VERSION}_darwin_amd64.tar.gz"
   version VERSION
-  sha256 "7d45b00ce61586947ad0ebce590fe20a1638c22acad4dfca53ea7758a13153ff"
+  sha256 "ed02ee2ed5bdb57f6028f8bbccd7ed6d77bd73cfa131cfbde6b2dc812e92949b"
   license "MIT LICENSE"
   
   def install
